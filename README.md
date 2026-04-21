@@ -17,7 +17,6 @@ If you're a fresh AI or you've been away from this server for a while, start her
 
 > [!NOTE]
 > This is a maintenance notebook, not application source code.
-> Bot code lives at [`madebymadhouse/chopsticks-lean`](https://github.com/madebymadhouse/chopsticks-lean).
 
 ---
 
